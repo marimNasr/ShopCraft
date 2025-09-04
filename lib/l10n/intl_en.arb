@@ -1,0 +1,78 @@
+{
+  "@@locale": "en",
+  "shopCraft": "ShopCraft",
+  "welcomeToShopCraft": "Welcome to ShopCraft!",
+  "premiumShopping": "Your Premium\nShopping Experience",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+
+  "welcomeBack": "Welcome Back!",
+  "signInToShopCraft": "Sign in to ShopCraft",
+  "email": "Email",
+  "emailExample": "e.g. john12@gmail.com",
+  "enterEmail": "Please enter your email",
+  "invalidEmail": "Please enter a valid email",
+  "password": "Password",
+  "enterPassword": "Enter your password",
+  "pleaseEnterPassword": "Please enter your password",
+  "shortPassword": "Password must be at least 6 characters",
+  "congrats": "Congrats!",
+  "signInSuccess": "Account sign-in successfully",
+  "close": "Close",
+
+  "createAccount": "Let’s Get Started",
+  "joinShopCraft": "Hi there! Join ShopCraft today!",
+  "fullName": "Full Name",
+  "fullNameExample": "e.g. John Doe",
+  "enterFullName": "Please enter your full name",
+  "firstLetterUppercase": "First letter must be uppercase",
+  "confirmPassword": "Confirm Password",
+  "reenterPassword": "Re-enter your password",
+  "pleaseConfirmPassword": "Please confirm your password",
+  "passwordsNotMatch": "Passwords do not match",
+  "signUpSuccess": "Account created successfully",
+
+  "ourProducts": "Our Products",
+  "featuredProducts": "Featured Products",
+  "shopCollection": "Shop Our Collection",
+  "hotOffers": "Hot Offers 🔥",
+
+  "premiumLaptopCollection": "Premium Laptop Collection",
+  "professionalWorkspace": "Professional Workspace",
+  "ambientLighting": "Ambient Lighting",
+
+  "offer50": "50% OFF",
+  "offer50Desc": "50% Off Electronics Limited time offer on all tech gadgets",
+  "freeShip": "FREE SHIP",
+  "freeShipDesc": "Free Shipping Weekend No delivery charges on orders above \\$50",
+  "b2g1": "B2G1",
+  "b2g1Desc": "Buy 2 Get 1 Free On selected accessories and peripherals",
+  "offer20": "20% OFF",
+  "offer20Desc": "Student Discount Extra 20% off with valid student ID",
+  "bundle": "BUNDLE",
+  "bundleDesc": "Bundle Deals Save more when you buy complete setups",
+
+  "macbookPro16": "MacBook Pro 16\"",
+  "wirelessHeadphones": "Wireless Headphones",
+  "smartWatch": "Smart Watch",
+  "designerBackpack": "Designer Backpack",
+  "premiumKeyboard": "Premium Keyboard",
+  "wirelessMouse": "Wireless Mouse",
+
+  "itemRemoved": "Item removed from Cart 🛒",
+  "itemAdded": "Item added to the cart 🛒",
+
+  "productRemoved": "{productName} has been removed.",
+  "@productRemoved": {
+    "placeholders": {
+      "productName": {}
+    }
+  },
+
+  "productAdded": "{productName} has been successfully added.",
+  "@productAdded": {
+    "placeholders": {
+      "productName": {}
+    }
+  }
+}
