@@ -1,6 +1,6 @@
 # 🛍️ ShopCraft - Flutter Shopping App  
 
-## 📖 Project Overview  
+##  Project Overview  
 ShopCraft is a **Flutter-based shopping app** developed as part of the **Sprint Up Final Project**.  
 It simulates a real-world e-commerce application where users can:  
 - Create an account or log in  
@@ -40,7 +40,7 @@ The project demonstrates **UI design, authentication, navigation, localization, 
 
 ---
 
-## ⚙️ Setup Instructions  
+##  Setup Instructions  
 
 1. **Clone the repository**  
 ```bash
@@ -58,9 +58,12 @@ The project demonstrates **UI design, authentication, navigation, localization, 
     flutter run
 ```
 
+---
 
 ## ScreenShots
 - A folder named screenshots/ is included with all app output images.
+
+---
 
 ## Tools & Tech Stack
 
